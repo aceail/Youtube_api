@@ -1,3 +1,4 @@
 # Youtube_api
 
-Save the title, tags, view Count, like Count, dislike Count, favoriteCount, commentCount as csv of search terms using YouTube api
+Youtube API 동영상 crawling
+  title, tags, view Count, like Count, dislike Count, favoriteCount, commentCount
