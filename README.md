@@ -1,5 +1,7 @@
 # Youtube_api
 
-Youtube API 동영상 crawling
+Youtube API crawling
+
+원하는 검색어에 대한 동영상 crawler
 
 title, tags, view Count, like Count, dislike Count, favoriteCount, commentCount
